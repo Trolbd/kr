@@ -1,0 +1,15 @@
+C:\Users\wolas\Desktop\kr\bin\Debug\net7.0\kr.exe
+C:\Users\wolas\Desktop\kr\bin\Debug\net7.0\kr.deps.json
+C:\Users\wolas\Desktop\kr\bin\Debug\net7.0\kr.runtimeconfig.json
+C:\Users\wolas\Desktop\kr\bin\Debug\net7.0\kr.dll
+C:\Users\wolas\Desktop\kr\bin\Debug\net7.0\kr.pdb
+C:\Users\wolas\Desktop\kr\obj\Debug\net7.0\kr.csproj.AssemblyReference.cache
+C:\Users\wolas\Desktop\kr\obj\Debug\net7.0\kr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolas\Desktop\kr\obj\Debug\net7.0\kr.AssemblyInfoInputs.cache
+C:\Users\wolas\Desktop\kr\obj\Debug\net7.0\kr.AssemblyInfo.cs
+C:\Users\wolas\Desktop\kr\obj\Debug\net7.0\kr.csproj.CoreCompileInputs.cache
+C:\Users\wolas\Desktop\kr\obj\Debug\net7.0\kr.dll
+C:\Users\wolas\Desktop\kr\obj\Debug\net7.0\refint\kr.dll
+C:\Users\wolas\Desktop\kr\obj\Debug\net7.0\kr.pdb
+C:\Users\wolas\Desktop\kr\obj\Debug\net7.0\kr.genruntimeconfig.cache
+C:\Users\wolas\Desktop\kr\obj\Debug\net7.0\ref\kr.dll
